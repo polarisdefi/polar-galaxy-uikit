@@ -143,6 +143,7 @@ export const WithProfile: React.FC = () => {
         currentLang="EN"
         cakePriceUsd={0.23158668932877668}
         links={links}
+        homeLink={'https://www.polarisdefi.io/'}
         profile={{
           username: "pancakeswap",
           image: "https://pancakeswap.finance/images/nfts/blueberries-preview.png",
