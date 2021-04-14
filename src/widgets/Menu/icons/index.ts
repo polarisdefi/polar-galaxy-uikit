@@ -1,6 +1,7 @@
 export { default as FarmIcon } from "./Farm";
 export { default as LaunchIcon } from "./Launch";
 export { default as GeyserIcon } from "./GeyserIcon";
+export { default as VaultIcon } from "./VaultIcon";
 export { default as GroupsIcon } from "./Groups";
 export { default as HamburgerIcon } from "./Hamburger";
 export { default as HamburgerCloseIcon } from "./HamburgerClose";
